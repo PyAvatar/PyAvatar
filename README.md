@@ -9,6 +9,6 @@ PyAvatar/PyAvatar is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StingrayCZ&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StingrayCZ&theme=monokai)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StingrayCZ&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PyAvatar&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PyAvatar&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PyAvatar&theme=monokai)
