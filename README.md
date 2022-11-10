@@ -8,3 +8,7 @@
 PyAvatar/PyAvatar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StingrayCZ&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=StingrayCZ&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StingrayCZ&theme=monokai)
